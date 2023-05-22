@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "jquery": "npm:@mgol/jquery-exports-test-do-not-use-v7@4.0.0",
+    "jsdom": "^22.0.0"
+  }
+}

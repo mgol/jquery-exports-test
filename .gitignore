@@ -1,0 +1,9 @@
+*~
+*.diff
+*.patch
+.DS_Store
+.bower.json
+
+npm-debug.log*
+
+/node_modules
